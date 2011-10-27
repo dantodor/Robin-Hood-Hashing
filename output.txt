@@ -1,0 +1,82 @@
+Node 48 Inserted @ room 10 - collision count for this node is 0
+Node 21 Inserted @ room 2 - collision count for this node is 0
+Node 11 Inserted @ room 11 - collision count for this node is 0
+Node 14 Inserted @ room 14 - collision count for this node is 0
+Node 35 Inserted @ room 16 - collision count for this node is 0
+Node 77 Inserted @ room 1 - collision count for this node is 0
+Node 20 collided with node 77 while inserting -  collision count for the former node is 1
+Node 20 Inserted @ room 15 - collision count for this node is 1
+Node 70 Inserted @ room 13 - collision count for this node is 0
+Node 36 Inserted @ room 17 - collision count for this node is 0
+Node 87 collided with node 11 while inserting -  collision count for the former node is 1
+Node 87 Inserted @ room 7 - collision count for this node is 1
+Node 69 Inserted @ room 12 - collision count for this node is 0
+Node 95 Inserted @ room 0 - collision count for this node is 0
+Node 23 Inserted @ room 4 - collision count for this node is 0
+Node 88 collided with node 69 while inserting -  collision count for the former node is 1
+Node 88 collided with node 87 while inserting -  collision count for the former node is 2
+Node 88 collided with node 21 while inserting -  collision count for the former node is 3
+Replacing node 21 - collision count for this node is 1
+Node 88 Inserted @ room 2 - collision count for this node is 3
+Node 21 collided with node 20 while inserting -  collision count for the former node is 2
+Node 21 Inserted @ room 9 - collision count for this node is 2
+Node 9 collided with node 21 while inserting -  collision count for the former node is 1
+Node 9 collided with node 36 while inserting -  collision count for the former node is 2
+Replacing node 36 - collision count for this node is 1
+Node 9 Inserted @ room 17 - collision count for this node is 2
+Node 36 collided with node 70 while inserting -  collision count for the former node is 2
+Replacing node 70 - collision count for this node is 1
+Node 36 Inserted @ room 13 - collision count for this node is 2
+Node 70 collided with node 21 while inserting -  collision count for the former node is 2
+Node 70 Inserted @ room 5 - collision count for this node is 2
+Node 40 collided with node 88 while inserting -  collision count for the former node is 1
+Node 40 collided with node 36 while inserting -  collision count for the former node is 2
+Node 40 collided with node 70 while inserting -  collision count for the former node is 3
+Node 40 collided with node 35 while inserting -  collision count for the former node is 4
+Replacing node 35 - collision count for this node is 1
+Node 40 Inserted @ room 16 - collision count for this node is 4
+Node 35 collided with node 36 while inserting -  collision count for the former node is 2
+Node 35 collided with node 48 while inserting -  collision count for the former node is 3
+Replacing node 48 - collision count for this node is 1
+Node 35 Inserted @ room 10 - collision count for this node is 3
+Node 48 collided with node 36 while inserting -  collision count for the former node is 2
+Node 48 collided with node 40 while inserting -  collision count for the former node is 3
+Node 48 collided with node 95 while inserting -  collision count for the former node is 4
+Replacing node 95 - collision count for this node is 1
+Node 48 Inserted @ room 0 - collision count for this node is 4
+Node 95 collided with node 87 while inserting -  collision count for the former node is 2
+Node 95 collided with node 14 while inserting -  collision count for the former node is 3
+Replacing node 14 - collision count for this node is 1
+Node 95 Inserted @ room 14 - collision count for this node is 3
+Node 14 collided with node 9 while inserting -  collision count for the former node is 2
+Node 14 collided with node 77 while inserting -  collision count for the former node is 3
+Replacing node 77 - collision count for this node is 1
+Node 14 Inserted @ room 1 - collision count for this node is 3
+Node 77 collided with node 21 while inserting -  collision count for the former node is 2
+Node 77 collided with node 9 while inserting -  collision count for the former node is 3
+Node 77 Inserted @ room 6 - collision count for this node is 3
+Node 52 collided with node 95 while inserting -  collision count for the former node is 1
+Node 52 collided with node 11 while inserting -  collision count for the former node is 2
+Replacing node 11 - collision count for this node is 1
+Node 52 Inserted @ room 11 - collision count for this node is 2
+Node 11 collided with node 9 while inserting -  collision count for the former node is 2
+Node 11 collided with node 23 while inserting -  collision count for the former node is 3
+Replacing node 23 - collision count for this node is 1
+Node 11 Inserted @ room 4 - collision count for this node is 3
+Node 23 collided with node 20 while inserting -  collision count for the former node is 2
+Node 23 collided with node 87 while inserting -  collision count for the former node is 3
+Replacing node 87 - collision count for this node is 2
+Node 23 Inserted @ room 7 - collision count for this node is 3
+Node 87 Inserted @ room 3 - collision count for this node is 2
+Node 86 collided with node 35 while inserting -  collision count for the former node is 1
+Node 86 collided with node 23 while inserting -  collision count for the former node is 2
+Node 86 collided with node 11 while inserting -  collision count for the former node is 3
+Node 86 collided with node 14 while inserting -  collision count for the former node is 4
+Node 86 collided with node 9 while inserting -  collision count for the former node is 5
+Replacing node 9 - collision count for this node is 3
+Node 86 Inserted @ room 17 - collision count for this node is 5
+Node 9 collided with node 95 while inserting -  collision count for the former node is 4
+Node 9 collided with node 87 while inserting -  collision count for the former node is 5
+Replacing node 87 - collision count for this node is 3
+Node 9 Inserted @ room 3 - collision count for this node is 5
+Node 87 Inserted @ room 18 - collision count for this node is 3
